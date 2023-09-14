@@ -2,7 +2,7 @@
 ### (projeto em andamento)
 
 ## 📌 Objetivo
-O objetivo principal desse projeto é a implementação de um site didático criado no curso de grid layout da Origamid. Eles criaram apenas a página inicial, farei uma implementação completa explorando meus conhecimentos em HTML e CSS criando mais páginas, conteúdos, outras estruturas e modificando alguns pontos do site criado no curso.
+O objetivo principal desse projeto é a implementação de um site didático criado no curso de grid layout da Origamid. Eles criaram apenas a página inicial, farei uma implementação completa explorando meus conhecimentos em HTML e CSS criando mais páginas, conteúdos, outras estruturas e modificando alguns pontos do site já criados no curso.
 <P>-> Este projeto é apenas de front-end!</P>
 
 
