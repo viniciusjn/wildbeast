@@ -2,16 +2,17 @@
 ### (projeto em andamento)
 
 ## 📌 Objetivo
-O objetivo principal era a criação de um sistema gerencial versionado em aplicação web que possuísse inserção, alteração e exclusão de dados que se interligassem (CRUD). Fiz um painel gerencial que controla uma loja de jogos, com funcionários de cargos diferentes que vendem determinados jogos para certos clientes.
-<P>-> Este projeto é apenas front-end e todo coódigo e conteúdo estão nesse repositório.</P>
+O objetivo principal desse projeto é a implementação de um site didático criado no curso de grid layout da Origamid. Eles criaram apenas a página inicial, farei uma implementação completa explorando meus conhecimentos em HTML e CSS criando mais páginas, conteúdos, outras estruturas e modificando alguns pontos do site criado no curso.
+<P>-> Este projeto é apenas de front-end!</P>
 
 
 ## 🛠️ Ferramentas e tecnologias
 
-* [React](https://react.dev/) - foi utilizado como framework web.
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 <div style="display: inline_block; padding: 0 auto" align="center"><br>
-  <img align="center" alt="React" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="HTML" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<br>
 
