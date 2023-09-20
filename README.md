@@ -21,7 +21,7 @@ O objetivo principal desse projeto é a implementação de um site feito no curs
 
 Acesse este [link](https://viniciusjn.github.io/wildbeast/) e poderá ver o projeto em execução!
 
-## Licence
+## License
 Esse projeto possui MIT License Copyright (c) 2023 ᴠɪɴɪ. 
 
 
