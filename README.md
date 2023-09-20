@@ -1,7 +1,7 @@
 # Wildbeast
 
 ## Objetivo
-O objetivo principal desse projeto é a implementação de um site feito no curso de grid layout da Origamid (onde fizeram apenas uma página). A intenção é inserir novas estruturas, páginas e conteúdo explorando a fundo os conceitos mais avançados de grid layout e flexbox correlatos a responsividade.
+O objetivo principal desse projeto é a implementação de um site feito no curso de grid layout da Origamid (onde criaram apenas uma página). A intenção é inserir novas estruturas, páginas e conteúdo explorando a fundo os conceitos mais avançados de grid layout e flexbox correlatos a responsividade.
 
 ## Especificações
 - projeto totalmente focado no front-end;
