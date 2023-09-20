@@ -9,7 +9,7 @@ O objetivo principal desse projeto é a implementação de um site feito no curs
 - site todo feito com grid layout e flexbox;
 - a temática adotada foi a iniciada no curso sobre animais e suas informações biológicas;
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 * <img align="center" alt="HTML" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * <img align="center" alt="CSS" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -20,4 +20,9 @@ O objetivo principal desse projeto é a implementação de um site feito no curs
 ## 🚀 Rodando o projeto
 
 Acesse este [link](https://viniciusjn.github.io/wildbeast/) e poderá ver o projeto em execução!
+
+<br><br>
+## Licence
+Esse projeto possui MIT License Copyright (c) 2023 ᴠɪɴɪ. 
+
 
